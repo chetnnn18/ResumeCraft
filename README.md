@@ -1,4 +1,4 @@
-# ResumAI
+# AI ResumeCraft
 
 A full-stack AI-powered resume builder. Users fill structured forms, see a live preview, tweak design settings, and use a Gemini-backed AI assistant to generate professional summaries, enhance experience bullets, suggest skills, extract ATS keywords, score their resume, and write cover letters. Resumes are persisted in MongoDB and auto-saved on every change, with a localStorage fallback when the backend is unreachable.
 
